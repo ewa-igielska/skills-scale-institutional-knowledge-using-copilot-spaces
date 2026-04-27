@@ -16,6 +16,8 @@ OctoAcme follows an end-to-end project lifecycle that guides teams from the firs
 
 ## Document Index
 
+### Core lifecycle docs
+
 | Document | Description |
 |---|---|
 | [Project Management Overview](octoacme-project-management-overview.md) | High-level introduction to OctoAcme's project management approach, principles, and lifecycle |
@@ -24,8 +26,16 @@ OctoAcme follows an end-to-end project lifecycle that guides teams from the firs
 | [Execution and Tracking](octoacme-execution-and-tracking.md) | Sprint/iteration execution, progress tracking, and change management |
 | [Risks and Communication](octoacme-risks-and-communication.md) | Risk identification, mitigation strategies, escalation paths, and communication cadences |
 | [Release and Deployment](octoacme-release-and-deployment.md) | Release readiness checks, deployment process, and post-release verification |
-| [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective formats, action item tracking, and feeding learnings back into the process |
+| [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective formats, facilitation checklist, action item tracking, and continuous improvement |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed description of each role: responsibilities, goals, and communication norms |
+
+### Process templates & checklists
+
+| Document | Description |
+|---|---|
+| [Project Intake Checklist](octoacme-project-intake-checklist.md) | Step-by-step checklist for evaluating and onboarding new work requests before planning begins |
+| [Decision Log Template](octoacme-decision-log-template.md) | Reusable template for capturing decisions, rationale, and consequences — reduces single-person dependency |
+| [Change Control Template](octoacme-change-control-template.md) | Change request process, template, and tracking log for managing scope/timeline/resource changes |
 
 ---
 
